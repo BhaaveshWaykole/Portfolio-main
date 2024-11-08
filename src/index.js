@@ -5,7 +5,7 @@ import { Provider as StyletronProvider } from "styletron-react";
 import { Client as Styletron } from "styletron-engine-atomic";
 
 import "./index.css";
-import "./assets/font-awesome/css/all.css";
+// import "./assets/font-awesome/css/all.css";
 
 import App from "./App";
 
